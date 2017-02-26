@@ -19,7 +19,7 @@ import org.apache.hadoop.mapreduce.Counter;
 import org.apache.hadoop.mapreduce.Counters;
 import org.apache.hadoop.mapreduce.Job;
 import org.apache.hadoop.mapreduce.Mapper;
-//this is comment
+//this is comment by Tusshar..
 public class MyDC {
 	
 	
